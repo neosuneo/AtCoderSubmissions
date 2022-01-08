@@ -1,4 +1,3 @@
 # AtCoderSubmissions
 
-
-test
+AtCoderの解法
